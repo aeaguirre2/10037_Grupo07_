@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="es">
+	<head>
+		<meta charset="utf-8">
+		<title>LABORATORIO</title>
+		<style type="text/css">
+			#background{position:absolute; width:99%; height:130%;}
+			#fixed {position:absolute; top: 0px; left: 0px;}
+		</style>
+	</head>
+	<body>
+		<div>
+			<img id="background" src="../../Imagenes/fondo.jpg" />
+	   </div>
+	   <div id-"fixed" style» podding-left:30x; padding-top: 10%;">
+			<br>
+			<img sre="../../Imagenes/selloespe-jpg width="65%" align=*center">
+			<h1 style-podding-left:258; ">Pregunta 1</h1>
+			<p id="pregunta"> Analizar una cadena de texto en un objeto DOM XML y extraer esa Información con JavaScript</p>
+			<р id="descripcion"> Para este ejercicio se utilizara una cadena de texto sobre animales pertenecientes a un
+		   zoologico</p>
+			<р id-"p3">Tienda de Celulares</p>
+			<!-- Llamado a las funciones del script, según el botón -->
+			<р style="padding-Left:15x;>
+				<button onclick="traerAnimal1();> Traer Animal VIVO</button>
+				<button onclick-"traerAnima12();> Traer Animal MUERTO</button>
+				<button onclick-"traerAnima13();> Traer Animal EXTINTO</button>
+			</p>
+			<р style="padding-left:35%; id="p1"x</p>
+			<br>
+			<button principal</button>
+	   </div>	
+	</body>
+</html>
